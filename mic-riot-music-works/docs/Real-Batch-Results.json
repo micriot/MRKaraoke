@@ -1,0 +1,1071 @@
+{
+  "project_path": "/Users/justinstewart/Documents/Codex/2026-10-04/files-pasted-by-the-user-master/outputs/Karaoke-Auditor/Libraries/92fb97ac-4a30-46a3-87ae-3997b8402722",
+  "sources": [
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SD - Best of Intentions - Tritt, Travis.zip",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SC - I Won't Last a Day Without You - Carpenters, The.zip",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CB - Heart Over Mind - Tillis Mel.zip",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CBE - One Headlight - Wallflowers.zip",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.cdg",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PartyTyme - Luke Bryan - Knockin' Boots.mp4",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PH - Old Dominion - One Man Band.mp4",
+      "kind": "karaoke"
+    },
+    {
+      "path": "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/DJ BreakMusic/Post Malone - Goodbyes ft. Young Thug.mp3",
+      "kind": "break"
+    },
+    {
+      "path": "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/King Willonius Do You Ever Get Tired_.flac",
+      "kind": "break"
+    },
+    {
+      "path": "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/Party variety- OKE BREAK MUSIC/Outkast Hey Ya!.m4a",
+      "kind": "break"
+    }
+  ],
+  "original_hashes_before": {
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SD - Best of Intentions - Tritt, Travis.zip": "893e36cd7d7a457bd4b6c422f8dba31271531cd951ec043fad1d059b48a6e892",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SC - I Won't Last a Day Without You - Carpenters, The.zip": "5c6b1751b0dd0741e30b609b7493359ab6af3b92bf53990bf0f5655d7ffc19a0",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CB - Heart Over Mind - Tillis Mel.zip": "b7bd308d4a35c98fac591dd8e8faa5facd18603a392781925af8ea90109b1f82",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CBE - One Headlight - Wallflowers.zip": "5812a068a845da6b107153627efb93963dc7d9a9aeb9c1d0924b60ec23bc1952",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.cdg": "d1fefb31fac4643faadcb9da2031d5bc1a2cd662b4a5c4ffcc36324f4ff58ee1",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3": "d441778b3bdda2b0513a8335e93b3281b4618abe21522c51c4813851315bdafc",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg": "7973a7738a4d0e5a7c92e30820b3276e5c6702390b5ddfc99656147c9e0a2e3f",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3": "3dac48eb68ac9a8b70e09be6f0813f26aed10b61c0cf07880dc06a4275e1dfd1",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PartyTyme - Luke Bryan - Knockin' Boots.mp4": "e6c22fef7922dacf500338dee3212d1d968c16e22da69cd50e07e18d4f678d67",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PH - Old Dominion - One Man Band.mp4": "612d5ddd1631fc50952ef37f1d87ce607d6326d21c23270e264fdec8a1edc2d5",
+    "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/DJ BreakMusic/Post Malone - Goodbyes ft. Young Thug.mp3": "8dc0458f28b519c9485551842a92b0b22efaef2391aeccaa602cc16f893416aa",
+    "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/King Willonius Do You Ever Get Tired_.flac": "8e533d527e84c6cab44fb3cebeb58e237c60fdb628663e7e3bf1f920751746c2",
+    "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/Party variety- OKE BREAK MUSIC/Outkast Hey Ya!.m4a": "d48b2c6f6e866cbf166d0ab8fe05a596259738b061d884c1bfbb8c7250f9c46e"
+  },
+  "original_hashes_after": {
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SD - Best of Intentions - Tritt, Travis.zip": "893e36cd7d7a457bd4b6c422f8dba31271531cd951ec043fad1d059b48a6e892",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SC - I Won't Last a Day Without You - Carpenters, The.zip": "5c6b1751b0dd0741e30b609b7493359ab6af3b92bf53990bf0f5655d7ffc19a0",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CB - Heart Over Mind - Tillis Mel.zip": "b7bd308d4a35c98fac591dd8e8faa5facd18603a392781925af8ea90109b1f82",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CBE - One Headlight - Wallflowers.zip": "5812a068a845da6b107153627efb93963dc7d9a9aeb9c1d0924b60ec23bc1952",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.cdg": "d1fefb31fac4643faadcb9da2031d5bc1a2cd662b4a5c4ffcc36324f4ff58ee1",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3": "d441778b3bdda2b0513a8335e93b3281b4618abe21522c51c4813851315bdafc",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg": "7973a7738a4d0e5a7c92e30820b3276e5c6702390b5ddfc99656147c9e0a2e3f",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3": "3dac48eb68ac9a8b70e09be6f0813f26aed10b61c0cf07880dc06a4275e1dfd1",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PartyTyme - Luke Bryan - Knockin' Boots.mp4": "e6c22fef7922dacf500338dee3212d1d968c16e22da69cd50e07e18d4f678d67",
+    "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PH - Old Dominion - One Man Band.mp4": "612d5ddd1631fc50952ef37f1d87ce607d6326d21c23270e264fdec8a1edc2d5",
+    "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/DJ BreakMusic/Post Malone - Goodbyes ft. Young Thug.mp3": "8dc0458f28b519c9485551842a92b0b22efaef2391aeccaa602cc16f893416aa",
+    "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/King Willonius Do You Ever Get Tired_.flac": "8e533d527e84c6cab44fb3cebeb58e237c60fdb628663e7e3bf1f920751746c2",
+    "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/Party variety- OKE BREAK MUSIC/Outkast Hey Ya!.m4a": "d48b2c6f6e866cbf166d0ab8fe05a596259738b061d884c1bfbb8c7250f9c46e"
+  },
+  "originals_unchanged": true,
+  "cold_audit_seconds": 3.2159041670020088,
+  "unchanged_resume_seconds": 0.008808792001218535,
+  "new_inventory_cached_audit_seconds": 0.30654416600009426,
+  "snapshot_median_ms": 2.9226250007923227,
+  "first_counts": {
+    "discovered": 13,
+    "processed": 13,
+    "pending": 0,
+    "failed": 2,
+    "skipped": 0,
+    "needs_review": 11,
+    "audit_pass": 0
+  },
+  "counts": {
+    "discovered": 13,
+    "processed": 13,
+    "pending": 0,
+    "failed": 2,
+    "skipped": 0,
+    "needs_review": 11,
+    "audit_pass": 0
+  },
+  "cache_hits": 20,
+  "report_path": "/Users/justinstewart/Documents/Codex/2026-10-04/files-pasted-by-the-user-master/outputs/Karaoke-Auditor/Libraries/92fb97ac-4a30-46a3-87ae-3997b8402722/REPORTS/9b5d25e5-0fa7-4810-915d-45367976d860",
+  "checks": [
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SD - Best of Intentions - Tritt, Travis.zip",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "zip"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID",
+          "artist": "Tritt, Travis",
+          "title": "Best of Intentions",
+          "disk_id": "SD",
+          "issues": [
+            "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "zip": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "members": [
+            {
+              "name": "Sd 075-13 - Travis Tritt - Best Of Intentions.cdg",
+              "size": 1758912,
+              "compression": 8,
+              "utf8": false
+            },
+            {
+              "name": "Sd 075-13 - Travis Tritt - Best Of Intentions.mp3",
+              "size": 3909172,
+              "compression": 8,
+              "utf8": false
+            }
+          ],
+          "mp3": [
+            "Sd 075-13 - Travis Tritt - Best Of Intentions.mp3"
+          ],
+          "cdg": [
+            "Sd 075-13 - Travis Tritt - Best Of Intentions.cdg"
+          ],
+          "crc": "PASS"
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "evidence": "archive structure only",
+          "identity_verified": false
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 244.32325,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "128000",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "WARNING",
+          "reason": "Unrecognized CDG instructions; review rendering",
+          "packets": 73288,
+          "graphics_packets": 8851,
+          "invalid_instructions": 2,
+          "duration": 244.29333333333332
+        },
+        "duration_relationship": {
+          "status": "PASS",
+          "reason": "Duration comparison only; synchronization UNKNOWN",
+          "audio_seconds": 244.32325,
+          "cdg_seconds": 244.29333333333332
+        },
+        "singws": {
+          "status": "PASS",
+          "reason": "Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "Tritt, Travis",
+            "title": "Best of Intentions",
+            "disk_id": "SD"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/SC - I Won't Last a Day Without You - Carpenters, The.zip",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "zip"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID",
+          "artist": "Carpenters, The",
+          "title": "I Won't Last a Day Without You",
+          "disk_id": "SC",
+          "issues": [
+            "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "zip": {
+          "status": "UNKNOWN",
+          "reason": "Unsupported archive encoding/compression: That compression method is not supported; not a corruption verdict"
+        },
+        "pair": {
+          "status": "UNKNOWN",
+          "reason": "Archive checks did not establish a media pair"
+        },
+        "audio": {
+          "status": "UNKNOWN",
+          "reason": "Archive audio component unavailable"
+        },
+        "cdg": {
+          "status": "UNKNOWN",
+          "reason": "Archive CDG component unavailable"
+        },
+        "singws": {
+          "status": "UNKNOWN",
+          "reason": "Usable pair not established; Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "Carpenters, The",
+            "title": "I Won't Last a Day Without You",
+            "disk_id": "SC"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CB - Heart Over Mind - Tillis Mel.zip",
+      "outcome": "FAILED",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "zip"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID",
+          "artist": "Tillis Mel",
+          "title": "Heart Over Mind",
+          "disk_id": "CB",
+          "issues": [
+            "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "zip": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "members": [
+            {
+              "name": "CB006-01 - Tillis Mel - Heart Over Mind.cdg",
+              "size": 1318536,
+              "compression": 8,
+              "utf8": false
+            },
+            {
+              "name": "CB006-01 - Tillis Mel - Heart Over Mind.mp3",
+              "size": 3072000,
+              "compression": 8,
+              "utf8": false
+            }
+          ],
+          "mp3": [
+            "CB006-01 - Tillis Mel - Heart Over Mind.mp3"
+          ],
+          "cdg": [
+            "CB006-01 - Tillis Mel - Heart Over Mind.cdg"
+          ],
+          "crc": "PASS"
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "evidence": "archive structure only",
+          "identity_verified": false
+        },
+        "audio": {
+          "status": "FAIL",
+          "reason": "Audio decoding found invalid data; review this file",
+          "diagnostic": "[mp3float @ 0x7b5503ce00] Header missing\n[aist#0:0/mp3 @ 0x7b54c10300] [dec:mp3float @ 0x7b54c1c3c0] Error submitting packet to decoder: Invalid data found when processing input\n[aist#0:0/mp3 @ 0x7b54c10300] [dec:mp3float @ 0x7b54c1c3c0] Error processing packet in decoder: Invalid data found when processing input\n[aist#0:0/mp3 @ 0x7b54c10300] [dec:mp3float @ 0x7b54c1c3c0] Task finished with error code: -1094995529 (Invalid data found when processing input)\n[aist#0:0/mp3 @ 0x7b54c10300] [dec:mp3float @ 0x7b54c1c3c0] Terminating thread with return code -1094995529 (Invalid data found when processing input)",
+          "duration": 191.693333,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "128204",
+          "tags": {},
+          "video_present": false,
+          "decode": "FAIL"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 54939,
+          "graphics_packets": 11841,
+          "duration": 183.13,
+          "background_indexes": [
+            12
+          ]
+        },
+        "duration_relationship": {
+          "status": "PASS",
+          "reason": "Duration comparison only; synchronization UNKNOWN",
+          "audio_seconds": 191.693333,
+          "cdg_seconds": 183.13
+        },
+        "singws": {
+          "status": "PASS",
+          "reason": "Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "Tillis Mel",
+            "title": "Heart Over Mind",
+            "disk_id": "CB"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/CBE - One Headlight - Wallflowers.zip",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "zip"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID",
+          "artist": "Wallflowers",
+          "title": "One Headlight",
+          "disk_id": "CBE",
+          "issues": [
+            "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "zip": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "members": [
+            {
+              "name": "CBE3-28-02 - Wallflowers - One Headlight.cdg",
+              "size": 2135040,
+              "compression": 8,
+              "utf8": false
+            },
+            {
+              "name": "CBE3-28-02 - Wallflowers - One Headlight.mp3",
+              "size": 4745090,
+              "compression": 8,
+              "utf8": false
+            }
+          ],
+          "mp3": [
+            "CBE3-28-02 - Wallflowers - One Headlight.mp3"
+          ],
+          "cdg": [
+            "CBE3-28-02 - Wallflowers - One Headlight.cdg"
+          ],
+          "crc": "PASS"
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "evidence": "archive structure only",
+          "identity_verified": false
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 296.568125,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "128000",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 88960,
+          "graphics_packets": 25256,
+          "duration": 296.53333333333336,
+          "background_indexes": [
+            12
+          ]
+        },
+        "duration_relationship": {
+          "status": "PASS",
+          "reason": "Duration comparison only; synchronization UNKNOWN",
+          "audio_seconds": 296.568125,
+          "cdg_seconds": 296.53333333333336
+        },
+        "singws": {
+          "status": "PASS",
+          "reason": "Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "Wallflowers",
+            "title": "One Headlight",
+            "disk_id": "CBE"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.cdg",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "WARNING",
+          "reason": "CDG has no unique magic signature; packet validation required",
+          "format": "cdg"
+        },
+        "filename": {
+          "status": "PASS",
+          "reason": "Filename fields parsed; identity not independently verified",
+          "artist": "Play That Song",
+          "title": "Train",
+          "disk_id": "Zoompop2017",
+          "issues": [],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Exact basename companion exists; song identity unverified",
+          "companion": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3",
+          "size": 6191647,
+          "mtime_ns": 1548703220000000000,
+          "identity_verified": false
+        },
+        "_companion": {
+          "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3",
+          "sha256": "d441778b3bdda2b0513a8335e93b3281b4618abe21522c51c4813851315bdafc",
+          "size": 6191647,
+          "mtime_ns": 1548703220000000000
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 257.985292,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "191999",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 77400,
+          "graphics_packets": 27072,
+          "duration": 258.0,
+          "background_indexes": [
+            0
+          ]
+        },
+        "duration_relationship": {
+          "status": "PASS",
+          "reason": "Duration comparison only; synchronization UNKNOWN",
+          "audio_seconds": 257.985292,
+          "cdg_seconds": 258.0
+        },
+        "singws": {
+          "status": "PASS",
+          "reason": "Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "Play That Song",
+            "title": "Train",
+            "disk_id": "Zoompop2017"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "mp3"
+        },
+        "filename": {
+          "status": "PASS",
+          "reason": "Filename fields parsed; identity not independently verified",
+          "artist": "Play That Song",
+          "title": "Train",
+          "disk_id": "Zoompop2017",
+          "issues": [],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Exact basename companion exists; song identity unverified",
+          "companion": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.cdg",
+          "size": 1857600,
+          "mtime_ns": 1548703220000000000,
+          "identity_verified": false
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 257.985292,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "191999",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "singws": {
+          "status": "WARNING",
+          "reason": "Inspected karaoke scanner does not index this extension as a song",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "WARNING",
+          "reason": "CDG has no unique magic signature; packet validation required",
+          "format": "cdg"
+        },
+        "filename": {
+          "status": "PASS",
+          "reason": "Filename fields parsed; identity not independently verified",
+          "artist": "Extraordinary",
+          "title": "Bandit, Clean & Sharna Bass",
+          "disk_id": "ZPBX2014-05",
+          "issues": [],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Exact basename companion exists; song identity unverified",
+          "companion": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3",
+          "size": 6453707,
+          "mtime_ns": 1503020522000000000,
+          "identity_verified": false
+        },
+        "_companion": {
+          "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3",
+          "sha256": "3dac48eb68ac9a8b70e09be6f0813f26aed10b61c0cf07880dc06a4275e1dfd1",
+          "size": 6453707,
+          "mtime_ns": 1503020522000000000
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 268.904458,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "192000",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 80680,
+          "graphics_packets": 24617,
+          "duration": 268.93333333333334,
+          "background_indexes": [
+            0
+          ]
+        },
+        "duration_relationship": {
+          "status": "PASS",
+          "reason": "Duration comparison only; synchronization UNKNOWN",
+          "audio_seconds": 268.904458,
+          "cdg_seconds": 268.93333333333334
+        },
+        "singws": {
+          "status": "PASS",
+          "reason": "Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "Extraordinary",
+            "title": "Bandit, Clean & Sharna Bass",
+            "disk_id": "ZPBX2014-05"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "mp3"
+        },
+        "filename": {
+          "status": "PASS",
+          "reason": "Filename fields parsed; identity not independently verified",
+          "artist": "Extraordinary",
+          "title": "Bandit, Clean & Sharna Bass",
+          "disk_id": "ZPBX2014-05",
+          "issues": [],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Exact basename companion exists; song identity unverified",
+          "companion": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg",
+          "size": 1936320,
+          "mtime_ns": 1503020522000000000,
+          "identity_verified": false
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 268.904458,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "192000",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "singws": {
+          "status": "WARNING",
+          "reason": "Inspected karaoke scanner does not index this extension as a song",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PartyTyme - Luke Bryan - Knockin' Boots.mp4",
+      "outcome": "FAILED",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "WARNING",
+          "reason": "Unrecognized signature; probe required",
+          "format": "unknown"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID",
+          "artist": "Knockin' Boots",
+          "title": "Luke Bryan",
+          "disk_id": "PartyTyme",
+          "issues": [
+            "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Single media file; MP3/CDG pairing not applicable"
+        },
+        "audio": {
+          "status": "FAIL",
+          "reason": "No readable audio container found \u2014 MP4 index (moov atom) missing",
+          "diagnostic": "[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7cb1034000] moov atom not found\n/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PartyTyme - Luke Bryan - Knockin' Boots.mp4: Invalid data found when processing input"
+        },
+        "singws": {
+          "status": "PASS",
+          "reason": "Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "Knockin' Boots",
+            "title": "Luke Bryan",
+            "disk_id": "PartyTyme"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/BDE_Karaoke lib./Mstr Karaoke CDG/Party tymt (pm)/PH - Old Dominion - One Man Band.mp4",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "iso-media"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID",
+          "artist": "One Man Band",
+          "title": "Old Dominion",
+          "disk_id": "PH",
+          "issues": [
+            "CATALOG PREFIX ONLY \u2014 VERIFY DISK ID"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Single media file; MP3/CDG pairing not applicable"
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 196.7,
+          "sample_rate": "48000",
+          "channels": 2,
+          "codec": "aac",
+          "bitrate": "362231",
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "title": "Old Dominion - One Man Band (Karaoke Version)",
+            "artist": "Sing King",
+            "date": "20200128",
+            "encoder": "Lavf61.9.107",
+            "comment": "https://www.youtube.com/watch?v=XU1Sts_K3ns",
+            "description": "Karaoke sing along of \u201cOne Man Band\u201d by Old Dominion from Sing King Karaoke\nStay tuned for brand new karaoke videos by subscribing here: https://link.singking.com/YouTube\n\ud83d\udd14 Don\u2019t forget to hit that notification bell! \ud83d\udd14\n\nYou can also find us on:\n\u25aa\ufe0f Facebook - https://link.singking.com/Facebook\n\u25aa\ufe0f Instagram - https://link.singking.com/Instagram\n\u25aa\ufe0f Twitter - https://link.singking.com/Twitter\n\nJoin our mailing list to stay in the loop for all things Sing King: https://link.singking.com/Signup\n\nWatch more Sing King Karaoke:\n\u25aa\ufe0f Sing King Weekly Top 50: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm9y57_K3vBvkZiaGjIXD_x5&playnext=1 \n\u25aa\ufe0f Disney: https://youtube.com/playlist?list=PL8D4Iby0Bmm9DM_LC_2MEwqidYODgXsNw&playnext=1\n\u25aa\ufe0f Karaoke Classics: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm-g8xzHZUzNmj25Jf_N-Nnc&playnext=1\n\u25aa\ufe0f At The Movies: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm_u6dldszFSlpOSnCWwp8Sj&playnext=1\n\u25aa\ufe0f Piano Karaoke: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm_GyTJaxbex3peZVeDJgQFr&playnext=1\n\u25aa\ufe0f The Greatest Showman: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm8VqHbgQv1KTAB_en5D9Aih&playnext=1\n\u25aa\ufe0f Party Starters: https://youtube.com/playlist?list=PL8D4Iby0Bmm-uQIcbRfHeUMd_YDSZDA39&playnext=1\n\u25aa\ufe0f Ballads & Love Songs: https://youtube.com/playlist?list=PL8D4Iby0Bmm-nKJtBcg_1BHmukPlaniFk&playnext=1\n\u25aa\ufe0f Latest Videos: https://youtube.com/playlist?list=PL8D4Iby0Bmm8rohzdA2kgl9z_nOIzIwfd&playnext=1\n\u25aa\ufe0f Popular Videos: https://youtube.com/playlist?list=PL8D4Iby0Bmm94U_rwuJuocyC1xFoPTd5R&playnext=1\n\u25aa\ufe0f Hip-Hop: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm8wob_KNgW8crCdQ5pxA2Pv&playnext=1 \n\u25aa\ufe0f Karaoke Queens: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm-3CTbWPPyRDc6tV-ilRMXp&playnext=1\n\u25aa\ufe0f Descendants: https://www.youtube.com/watch?v=-XRt9aEwAy0&list=PL8D4Iby0Bmm8BjYeIWUwyM4AEgdXLHxSi&playnext=1\n\nAbout Sing King Karaoke: Welcome to the official Sing King Karaoke YouTube channel! On this channel, you\u2019ll find a variety of karaoke and sing along videos with lyrics, including pop rock, R&B, hip hop, piano, acoustic, and electropop genres from Taylor Swift, Katy Perry, ABBA, and more. If you like music, singing along, learning song lyrics, or karaoke, sing along to them in style with Sing King Karaoke, your number one source for YouTube karaoke and lyrics.\n\n#CountryMusic #CountrySongs #CountryKaraoke",
+            "synopsis": "Karaoke sing along of \u201cOne Man Band\u201d by Old Dominion from Sing King Karaoke\nStay tuned for brand new karaoke videos by subscribing here: https://link.singking.com/YouTube\n\ud83d\udd14 Don\u2019t forget to hit that notification bell! \ud83d\udd14\n\nYou can also find us on:\n\u25aa\ufe0f Facebook - https://link.singking.com/Facebook\n\u25aa\ufe0f Instagram - https://link.singking.com/Instagram\n\u25aa\ufe0f Twitter - https://link.singking.com/Twitter\n\nJoin our mailing list to stay in the loop for all things Sing King: https://link.singking.com/Signup\n\nWatch more Sing King Karaoke:\n\u25aa\ufe0f Sing King Weekly Top 50: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm9y57_K3vBvkZiaGjIXD_x5&playnext=1 \n\u25aa\ufe0f Disney: https://youtube.com/playlist?list=PL8D4Iby0Bmm9DM_LC_2MEwqidYODgXsNw&playnext=1\n\u25aa\ufe0f Karaoke Classics: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm-g8xzHZUzNmj25Jf_N-Nnc&playnext=1\n\u25aa\ufe0f At The Movies: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm_u6dldszFSlpOSnCWwp8Sj&playnext=1\n\u25aa\ufe0f Piano Karaoke: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm_GyTJaxbex3peZVeDJgQFr&playnext=1\n\u25aa\ufe0f The Greatest Showman: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm8VqHbgQv1KTAB_en5D9Aih&playnext=1\n\u25aa\ufe0f Party Starters: https://youtube.com/playlist?list=PL8D4Iby0Bmm-uQIcbRfHeUMd_YDSZDA39&playnext=1\n\u25aa\ufe0f Ballads & Love Songs: https://youtube.com/playlist?list=PL8D4Iby0Bmm-nKJtBcg_1BHmukPlaniFk&playnext=1\n\u25aa\ufe0f Latest Videos: https://youtube.com/playlist?list=PL8D4Iby0Bmm8rohzdA2kgl9z_nOIzIwfd&playnext=1\n\u25aa\ufe0f Popular Videos: https://youtube.com/playlist?list=PL8D4Iby0Bmm94U_rwuJuocyC1xFoPTd5R&playnext=1\n\u25aa\ufe0f Hip-Hop: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm8wob_KNgW8crCdQ5pxA2Pv&playnext=1 \n\u25aa\ufe0f Karaoke Queens: https://www.youtube.com/playlist?list=PL8D4Iby0Bmm-3CTbWPPyRDc6tV-ilRMXp&playnext=1\n\u25aa\ufe0f Descendants: https://www.youtube.com/watch?v=-XRt9aEwAy0&list=PL8D4Iby0Bmm8BjYeIWUwyM4AEgdXLHxSi&playnext=1\n\nAbout Sing King Karaoke: Welcome to the official Sing King Karaoke YouTube channel! On this channel, you\u2019ll find a variety of karaoke and sing along videos with lyrics, including pop rock, R&B, hip hop, piano, acoustic, and electropop genres from Taylor Swift, Katy Perry, ABBA, and more. If you like music, singing along, learning song lyrics, or karaoke, sing along to them in style with Sing King Karaoke, your number one source for YouTube karaoke and lyrics.\n\n#CountryMusic #CountrySongs #CountryKaraoke"
+          },
+          "video_present": true,
+          "decode": "PASS"
+        },
+        "singws": {
+          "status": "PASS",
+          "reason": "Source-derived checks only; actual playback UNKNOWN",
+          "parsed": {
+            "artist": "One Man Band",
+            "title": "Old Dominion",
+            "disk_id": "PH"
+          },
+          "format": "disc-title-artist",
+          "source_sha256": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "playback": "UNKNOWN"
+        }
+      }
+    },
+    {
+      "path": "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/DJ BreakMusic/Post Malone - Goodbyes ft. Young Thug.mp3",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "mp3"
+        },
+        "filename": {
+          "status": "PASS",
+          "reason": "Filename fields parsed; identity not independently verified",
+          "artist": "Post Malone",
+          "title": "Goodbyes ft. Young Thug",
+          "disk_id": "",
+          "issues": [],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Break music has no CDG requirement"
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 185.341678,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "192084",
+          "tags": {
+            "major_brand": "dash",
+            "minor_version": "0",
+            "compatible_brands": "iso6mp41",
+            "encoder": "Lavf57.56.101"
+          },
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "singws": {
+          "status": "UNKNOWN",
+          "reason": "Break music: karaoke compatibility not applicable; playback untested"
+        }
+      }
+    },
+    {
+      "path": "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/BG Music/King Willonius Do You Ever Get Tired_.flac",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "flac"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "UNKNOWN ARTIST",
+          "artist": "",
+          "title": "King Willonius Do You Ever Get Tired_",
+          "disk_id": "",
+          "issues": [
+            "UNKNOWN ARTIST"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Break music has no CDG requirement"
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 151.278,
+          "sample_rate": "192000",
+          "channels": 2,
+          "codec": "flac",
+          "bitrate": "3144273",
+          "tags": {
+            "ALBUM": "Do You Ever Get Tired?",
+            "ARTIST": "King Willonius",
+            "DATE": "2026",
+            "disc": "1",
+            "TITLE": "Do You Ever Get Tired?",
+            "track": "1"
+          },
+          "video_present": true,
+          "decode": "PASS"
+        },
+        "singws": {
+          "status": "UNKNOWN",
+          "reason": "Break music: karaoke compatibility not applicable; playback untested"
+        }
+      }
+    },
+    {
+      "path": "/Users/justinstewart/Documents/Mic Riot Karaoke/ntertainment/My Music/Break Music/Party variety- OKE BREAK MUSIC/Outkast Hey Ya!.m4a",
+      "outcome": "NEEDS_REVIEW",
+      "error": null,
+      "stages": {
+        "_environment": {
+          "analysis": "20aeaa599340b3cb341031af5ac793a08697a423d1c19a784d1d9c19db60fe32",
+          "naming": "disc-title-artist",
+          "singws_source": "ee67b4523f43425fda8f221633e5f8e8734c88aec45d424a6a0dbeb74bff6a11",
+          "singws_format": "disc-title-artist",
+          "singws_known": true
+        },
+        "signature": {
+          "status": "PASS",
+          "reason": "Recognized container signature",
+          "format": "iso-media"
+        },
+        "filename": {
+          "status": "WARNING",
+          "reason": "UNKNOWN ARTIST",
+          "artist": "",
+          "title": "Outkast Hey Ya!",
+          "disk_id": "",
+          "issues": [
+            "UNKNOWN ARTIST"
+          ],
+          "naming": "disc-title-artist",
+          "evidence": "filename only",
+          "identity_verified": false
+        },
+        "pair": {
+          "status": "PASS",
+          "reason": "Break music has no CDG requirement"
+        },
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 236.077052,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "aac",
+          "bitrate": "259557",
+          "tags": {
+            "major_brand": "M4A ",
+            "minor_version": "512",
+            "compatible_brands": "M4A isomiso2",
+            "album_artist": "Various Artists",
+            "disc": "1",
+            "track": "18",
+            "artist": "Outkast",
+            "album": "Kiss R&B Digital Downloads",
+            "date": "2006",
+            "title": "Hey Ya!"
+          },
+          "video_present": true,
+          "decode": "PASS"
+        },
+        "singws": {
+          "status": "UNKNOWN",
+          "reason": "Break music: karaoke compatibility not applicable; playback untested"
+        }
+      }
+    }
+  ]
+}

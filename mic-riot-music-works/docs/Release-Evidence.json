@@ -1,0 +1,9 @@
+{
+  "version": "0.2.0",
+  "architecture": "arm64",
+  "dmg_bytes": 28758645,
+  "dmg_sha256": "dba9dc8e3a86b312703b1d377c6fd97b54e7d6291bab53872f415574003d9325",
+  "signature": "ad-hoc; deep strict verification passed on mounted DMG",
+  "tests": 44,
+  "native_launch_page": true
+}

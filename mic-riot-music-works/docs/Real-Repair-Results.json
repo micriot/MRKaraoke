@@ -1,0 +1,156 @@
+[
+  {
+    "id": "8544068c-3eea-4099-bf1f-700806fae53b",
+    "file": 18,
+    "job": "9b5d25e5-0fa7-4810-915d-45367976d860",
+    "state": "verified",
+    "action": "review",
+    "output": "/Users/justinstewart/Documents/Codex/2026-10-04/files-pasted-by-the-user-master/outputs/Karaoke-Auditor/Libraries/92fb97ac-4a30-46a3-87ae-3997b8402722/FIXED/Zoompop2017 - Train - Play That Song \u2014 8544068c.zip",
+    "evidence": {
+      "file": 18,
+      "action": "package_pair",
+      "explanation": "Package the exact-name MP3/CDG pair into a checked ZIP copy. Originals stay in place.",
+      "problems": [
+        {
+          "check": "signature",
+          "problem": "CDG has no unique magic signature; packet validation required"
+        }
+      ],
+      "checks": {
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 257.985292,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "191999",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 77400,
+          "graphics_packets": 27072,
+          "duration": 258.0,
+          "background_indexes": [
+            0
+          ]
+        },
+        "zip": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "members": [
+            {
+              "name": "Zoompop2017 - Train - Play That Song.mp3",
+              "size": 6191647,
+              "compression": 0,
+              "utf8": false
+            },
+            {
+              "name": "Zoompop2017 - Train - Play That Song.cdg",
+              "size": 1857600,
+              "compression": 0,
+              "utf8": false
+            }
+          ],
+          "mp3": [
+            "Zoompop2017 - Train - Play That Song.mp3"
+          ],
+          "cdg": [
+            "Zoompop2017 - Train - Play That Song.cdg"
+          ],
+          "crc": "PASS"
+        }
+      },
+      "originals": {
+        "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.cdg": "d1fefb31fac4643faadcb9da2031d5bc1a2cd662b4a5c4ffcc36324f4ff58ee1",
+        "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3": "d441778b3bdda2b0513a8335e93b3281b4618abe21522c51c4813851315bdafc"
+      },
+      "output_sha256": "e790c92ebce0b560810711944473d4a3974cab53ddf321f86fd92212bc2c5109",
+      "limits": "Packaging and decode verified; song identity, rendering and synchronization unverified"
+    },
+    "error": null,
+    "updated": 1791314040.2470012
+  },
+  {
+    "id": "47b736fd-c14d-4f87-ba73-80e017facddf",
+    "file": 20,
+    "job": "9b5d25e5-0fa7-4810-915d-45367976d860",
+    "state": "verified",
+    "action": "review",
+    "output": "/Users/justinstewart/Documents/Codex/2026-10-04/files-pasted-by-the-user-master/outputs/Karaoke-Auditor/Libraries/92fb97ac-4a30-46a3-87ae-3997b8402722/FIXED/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary \u2014 47b736fd.zip",
+    "evidence": {
+      "file": 20,
+      "action": "package_pair",
+      "explanation": "Package the exact-name MP3/CDG pair into a checked ZIP copy. Originals stay in place.",
+      "problems": [
+        {
+          "check": "signature",
+          "problem": "CDG has no unique magic signature; packet validation required"
+        }
+      ],
+      "checks": {
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 268.904458,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "192000",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 80680,
+          "graphics_packets": 24617,
+          "duration": 268.93333333333334,
+          "background_indexes": [
+            0
+          ]
+        },
+        "zip": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "members": [
+            {
+              "name": "ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3",
+              "size": 6453707,
+              "compression": 0,
+              "utf8": false
+            },
+            {
+              "name": "ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg",
+              "size": 1936320,
+              "compression": 0,
+              "utf8": false
+            }
+          ],
+          "mp3": [
+            "ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3"
+          ],
+          "cdg": [
+            "ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg"
+          ],
+          "crc": "PASS"
+        }
+      },
+      "originals": {
+        "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.cdg": "7973a7738a4d0e5a7c92e30820b3276e5c6702390b5ddfc99656147c9e0a2e3f",
+        "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/ZPBX2014-05 - Bandit, Clean & Sharna Bass - Extraordinary.mp3": "3dac48eb68ac9a8b70e09be6f0813f26aed10b61c0cf07880dc06a4275e1dfd1"
+      },
+      "output_sha256": "8ff50beecec9e919bfaea70879e56d22b0b18152ce218b7094b0f8acec138656",
+      "limits": "Packaging and decode verified; song identity, rendering and synchronization unverified"
+    },
+    "error": null,
+    "updated": 1791314040.7796469
+  }
+]

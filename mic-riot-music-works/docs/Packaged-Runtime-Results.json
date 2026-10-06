@@ -1,0 +1,89 @@
+{
+  "scan_counts": {
+    "discovered": 2,
+    "processed": 2,
+    "pending": 0,
+    "failed": 0,
+    "skipped": 0,
+    "needs_review": 1,
+    "audit_pass": 1
+  },
+  "repair": {
+    "id": "1f9819dd-24a9-4816-b77c-6779ad1ba885",
+    "file": 1,
+    "job": "2d197025-33fd-4b6a-8636-43b29cd05a1a",
+    "state": "verified",
+    "action": "package_pair",
+    "output": "/Users/justinstewart/Documents/Codex/2026-10-04/files-pasted-by-the-user-master/work/final-bundle-smoke/0b56000c-fed4-461d-87d8-97f4a33e20fa/FIXED/Zoompop2017 - Train - Play That Song \u2014 1f9819dd.zip",
+    "evidence": {
+      "file": 1,
+      "action": "package_pair",
+      "explanation": "Package the exact-name MP3/CDG pair into a checked ZIP copy. Originals stay in place.",
+      "problems": [
+        {
+          "check": "signature",
+          "problem": "CDG has no unique magic signature; packet validation required"
+        }
+      ],
+      "checks": {
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 257.985292,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "191999",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 77400,
+          "graphics_packets": 27072,
+          "duration": 258.0,
+          "background_indexes": [
+            0
+          ]
+        },
+        "zip": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "members": [
+            {
+              "name": "Zoompop2017 - Train - Play That Song.mp3",
+              "size": 6191647,
+              "compression": 0,
+              "utf8": false
+            },
+            {
+              "name": "Zoompop2017 - Train - Play That Song.cdg",
+              "size": 1857600,
+              "compression": 0,
+              "utf8": false
+            }
+          ],
+          "mp3": [
+            "Zoompop2017 - Train - Play That Song.mp3"
+          ],
+          "cdg": [
+            "Zoompop2017 - Train - Play That Song.cdg"
+          ],
+          "crc": "PASS"
+        }
+      },
+      "originals": {
+        "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.cdg": "d1fefb31fac4643faadcb9da2031d5bc1a2cd662b4a5c4ffcc36324f4ff58ee1",
+        "/Volumes/JStewart 1TB MC/KARAOKE/master_Karaoke/Z/Zoompop2017 - Train - Play That Song.mp3": "d441778b3bdda2b0513a8335e93b3281b4618abe21522c51c4813851315bdafc"
+      },
+      "output_sha256": "4a897287cbf592af9b5c0d804bceb2f7b42287aa18aa5b60d504c7e47f675875",
+      "limits": "Packaging and decode verified; song identity, rendering and synchronization unverified"
+    },
+    "error": null,
+    "updated": 1791314299.0104818
+  },
+  "runtime": "bundled Python and FFmpeg/FFprobe"
+}

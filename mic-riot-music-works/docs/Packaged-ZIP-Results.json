@@ -1,0 +1,87 @@
+{
+  "originals_unchanged": true,
+  "repair": {
+    "id": "2a58d9cf-8648-4994-899b-76f0ac0d6932",
+    "file": 1,
+    "job": "5e5c3c24-ebf5-41cc-b8cd-a0f383931020",
+    "state": "verified",
+    "action": "normalize_zip",
+    "output": "/Users/justinstewart/Documents/Codex/2026-10-04/files-pasted-by-the-user-master/work/final-zip-smoke-data/9c273953-36b1-4365-a298-a88d0658ead6/FIXED/native-zip-fixture \u2014 2a58d9cf.zip",
+    "evidence": {
+      "file": 1,
+      "action": "normalize_zip",
+      "explanation": "Create a clean ZIP with one matching audio/lyrics pair at the top level, removing extra archive entries. Original media bytes are preserved.",
+      "problems": [
+        {
+          "check": "filename",
+          "problem": "UNKNOWN ARTIST; MISSING DISK ID"
+        },
+        {
+          "check": "zip",
+          "problem": "Archive contains hidden/junk entries"
+        },
+        {
+          "check": "pair",
+          "problem": "Archive contains hidden/junk entries"
+        }
+      ],
+      "checks": {
+        "audio": {
+          "status": "PASS",
+          "reason": "Entire audio stream decoded; playback and loudness not tested",
+          "diagnostic": "",
+          "duration": 257.985292,
+          "sample_rate": "44100",
+          "channels": 2,
+          "codec": "mp3",
+          "bitrate": "191999",
+          "tags": {},
+          "video_present": false,
+          "decode": "PASS"
+        },
+        "cdg": {
+          "status": "PASS",
+          "reason": "CDG packet structure parsed; parity, rendering, lyrics and sync not tested",
+          "packets": 77400,
+          "graphics_packets": 27072,
+          "duration": 258.0,
+          "background_indexes": [
+            0
+          ]
+        },
+        "zip": {
+          "status": "PASS",
+          "reason": "CRC passed; one matching basename pair (identity unverified)",
+          "members": [
+            {
+              "name": "native-zip-fixture.mp3",
+              "size": 6191647,
+              "compression": 0,
+              "utf8": false
+            },
+            {
+              "name": "native-zip-fixture.cdg",
+              "size": 1857600,
+              "compression": 0,
+              "utf8": false
+            }
+          ],
+          "mp3": [
+            "native-zip-fixture.mp3"
+          ],
+          "cdg": [
+            "native-zip-fixture.cdg"
+          ],
+          "crc": "PASS"
+        }
+      },
+      "originals": {
+        "/Users/justinstewart/Documents/Codex/2026-10-04/files-pasted-by-the-user-master/work/native-zip-fixture.zip": "12b2eb8f30b2126a8cb70c2fa80c5d584f1e8b02348053f49fbf3cedc3210682"
+      },
+      "output_sha256": "8867969d60288592567acbee1a9ba3e366f63776ba334936d211c12c16a8ae74",
+      "limits": "Packaging and decode verified; song identity, rendering and synchronization unverified"
+    },
+    "error": null,
+    "updated": 1791314570.823356
+  }
+}
