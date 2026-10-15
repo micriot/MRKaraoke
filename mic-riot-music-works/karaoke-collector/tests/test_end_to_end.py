@@ -11,6 +11,8 @@ def test_release_verifier_requires_no_embedded_credentials_and_documents_smoke_g
 
     assert "api_key" not in source.lower()
     assert "two-singer live smoke" in readme.lower()
+    assert "# karaoke collector" in readme.lower()
+    assert "pre-show checks and diagnostics" in readme.lower()
 
 
 def test_release_verifier_runs_from_the_project_root() -> None:

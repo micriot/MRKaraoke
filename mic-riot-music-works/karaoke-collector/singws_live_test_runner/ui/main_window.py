@@ -19,11 +19,12 @@ class PreflightViewModel:
 class MainWindow(QMainWindow):
     def __init__(self, view_model: PreflightViewModel) -> None:
         super().__init__()
-        self.setWindowTitle("Mic Riot Test Runner")
+        self.setWindowTitle("Karaoke Collector")
         content = QWidget()
         layout = QVBoxLayout(content)
-        title = QLabel("MIC RIOT — TEST RUNNER")
+        title = QLabel("KARAOKE COLLECTOR")
         title.setStyleSheet("font-weight: 700; color: #48a9ff; font-size: 20px;")
         layout.addWidget(title)
+        layout.addWidget(QLabel("Pre-show checks and diagnostics for your SingWS hosting experience"))
         layout.addWidget(QLabel(view_model.summary))
         self.setCentralWidget(content)

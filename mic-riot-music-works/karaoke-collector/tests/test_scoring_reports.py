@@ -35,3 +35,4 @@ def test_report_exports_scores_and_redacts_evidence(tmp_path) -> None:
     assert json.loads(json_path.read_text())["results"][0]["video_score"] == 9
     assert "[REDACTED]" in html_path.read_text()
     assert "secret" not in html_path.read_text()
+    assert "Karaoke Collector" in html_path.read_text()

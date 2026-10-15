@@ -1,4 +1,4 @@
-# SingWS Live Test Runner — Design
+# Karaoke Collector — Design
 
 ## Purpose
 

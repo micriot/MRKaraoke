@@ -21,7 +21,7 @@ class ReportExporter:
     def export_html(self, path: Path, run: RunRecord, results: tuple[SongResult, ...], evidence: tuple[str, ...]) -> Path:
         rows = "".join(f"<li>#{item.request_ordinal}: video {item.video_score}/10, track {item.track_score}/10</li>" for item in results)
         notes = "".join(f"<li>{self._redact(item)}</li>" for item in evidence)
-        path.write_text(f"<h1>SingWS Test Runner</h1><p>Run: {run.id}</p><ul>{rows}</ul><ul>{notes}</ul>")
+        path.write_text(f"<h1>Karaoke Collector</h1><p>Run: {run.id}</p><ul>{rows}</ul><ul>{notes}</ul>")
         return path
 
     def _redact(self, value: str) -> str:

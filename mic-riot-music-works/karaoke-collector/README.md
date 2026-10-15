@@ -1,7 +1,8 @@
-# Mic Riot Test Runner
+# Karaoke Collector
 
-Local companion for SingWS pre-show checks and measured, operator-confirmed
-test scenarios. It never submits a request until the person at the Mac reviews
+Pre-show checks and diagnostics to fine-tune your SingWS hosting experience.
+Karaoke Collector includes optional measured, operator-confirmed stress-test
+scenarios. It never submits a request until the person at the Mac reviews
 preflight and confirms **OK, Start Test Run**.
 
 ## Before any larger live test
