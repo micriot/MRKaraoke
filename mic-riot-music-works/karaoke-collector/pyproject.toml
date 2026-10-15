@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "karaoke-collector"
+version = "0.1.0"
+description = "SingWS pre-show checks, diagnostics, and optional stress testing"
+requires-python = ">=3.14"
+dependencies = ["PyQt6>=6.11"]
+
+[project.optional-dependencies]
+dev = ["pytest>=9.1"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
