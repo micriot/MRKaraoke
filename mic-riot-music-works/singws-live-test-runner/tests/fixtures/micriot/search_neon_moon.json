@@ -1,0 +1,12 @@
+{
+  "results": [
+    {"song_id": "1618699", "artist": "Brooks & Dunn", "title": "Neon Moon", "source": "local"},
+    {"song_id": "1618742", "artist": "Brooks & Dunn And Morgan Wallen", "title": "Neon Moon", "source": "local"}
+  ],
+  "offset": 0,
+  "limit": 100,
+  "total": 2,
+  "total_is_estimate": false,
+  "has_more": false,
+  "search_mode": "fts"
+}
